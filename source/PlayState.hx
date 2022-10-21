@@ -426,32 +426,23 @@ class PlayState extends MusicBeatState
 
 		switch (curStage)
 		{
-			case 'southPark': //Week S
-				var bg:BGSprite = new BGSprite('bg', 250, 310, 0.8, 0.8);
-				bg.setGraphicSize(Std.int(bg.width * 2));
-				add(bg);
-				var school:BGSprite = new BGSprite('school', 250, 140, 0.9, 0.9);
-				school.setGraphicSize(Std.int(school.width * 2));
-				add(school);
-				var stageFront:BGSprite = new BGSprite('fg', 250, 140, 1.0, 0.9);
-				stageFront.setGraphicSize(Std.int(stageFront.width * 2));
-				add(stageFront);
-
-				// people = new FlxSprite(250, 140);
-				// people.frames = Paths.getSparrowAtlas('people');
-				// people.animation.addByPrefix('idle', "people idle", 24, false);
-				// people.antialiasing = true;
-				// people.scrollFactor.set(1.1, 1.1);
-				// people.updateHitbox();
-
-				people = new FlxSprite(-100, 0);
-				people.frames = Paths.getSparrowAtlas('people');
-				people.animation.addByPrefix('idle', 'people idle', 24, false);
-				people.setGraphicSize(Std.int(people.width * 2));
-				people.scrollFactor.set(1.1, 1.1);
-				people.updateHitbox();
-
-
+			case 'mountain': //Week S
+				var sky:BGSprite = new BGSprite('cartman/sky', 150, 200, 0.9, 0.9);
+				sky.setGraphicSize(Std.int(sky.width * 5));
+				add(sky);
+				var white:BGSprite = new BGSprite('cartman/white', 150, 200, 0.9, 0.9);
+				white.setGraphicSize(Std.int(white.width * 2.8));
+				add(white);
+				var mount:BGSprite = new BGSprite('cartman/mount', 150, 200, 0.9, 0.9);
+				mount.setGraphicSize(Std.int(mount.width * 2.8));
+				add(mount);
+				var ground:BGSprite = new BGSprite('cartman/ground', 150, 300, 0.9, 0.9);
+				ground.setGraphicSize(Std.int(ground.width * 2.8));
+				add(ground);
+				var mic:BGSprite = new BGSprite('cartman/mic', 250, 400, 0.9, 0.9);
+				mic.setGraphicSize(Std.int(ground.width * 2.0));
+				add(mic);
+				GameOverSubstate.characterName = 'bf-sp';
 			case 'stage': //Week 1
 				var bg:BGSprite = new BGSprite('stageback', -600, -200, 0.9, 0.9);
 				add(bg);

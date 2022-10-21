@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				160,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "lmao Idle"
+		},
+		{
+			"offsets": [
+				215,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "lmao Left"
+		},
+		{
+			"offsets": [
+				94,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "lmao right"
+		},
+		{
+			"offsets": [
+				124,
+				83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "lmao Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				162,
+				104
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lmao Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cartman",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "cartman",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		161,
+		167
+	],
+	"camera_position": [
+		-10,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

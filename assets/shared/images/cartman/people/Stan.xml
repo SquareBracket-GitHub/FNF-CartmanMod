@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Stan.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Stan0000" x="0" y="0" width="1079" height="1079" frameX="0" frameY="0" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0001" x="0" y="0" width="1079" height="1079" frameX="0" frameY="0" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0002" x="1079" y="0" width="1005" height="1005" frameX="-60" frameY="-32" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0003" x="2084" y="0" width="953" height="953" frameX="-100" frameY="-56" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0004" x="2084" y="0" width="953" height="953" frameX="-100" frameY="-56" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0005" x="3037" y="0" width="927" height="928" frameX="-119" frameY="-68" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0006" x="3037" y="0" width="927" height="928" frameX="-119" frameY="-68" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0007" x="0" y="1079" width="939" height="939" frameX="-110" frameY="-63" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0008" x="0" y="1079" width="939" height="939" frameX="-110" frameY="-63" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0009" x="0" y="1079" width="939" height="939" frameX="-110" frameY="-63" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0010" x="0" y="1079" width="939" height="939" frameX="-110" frameY="-63" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0011" x="0" y="1079" width="939" height="939" frameX="-110" frameY="-63" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0012" x="0" y="1079" width="939" height="939" frameX="-110" frameY="-63" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0013" x="0" y="1079" width="939" height="939" frameX="-110" frameY="-63" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0014" x="939" y="1079" width="1046" height="1046" frameX="-52" frameY="-18" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0015" x="939" y="1079" width="1046" height="1046" frameX="-52" frameY="-18" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0016" x="1985" y="1079" width="988" height="988" frameX="-84" frameY="-42" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0017" x="2973" y="1079" width="949" height="949" frameX="-105" frameY="-59" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0018" x="2973" y="1079" width="949" height="949" frameX="-105" frameY="-59" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0019" x="0" y="2125" width="930" height="930" frameX="-115" frameY="-67" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0020" x="0" y="2125" width="930" height="930" frameX="-115" frameY="-67" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0021" x="0" y="1079" width="939" height="939" frameX="-110" frameY="-63" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0022" x="0" y="1079" width="939" height="939" frameX="-110" frameY="-63" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0023" x="0" y="1079" width="939" height="939" frameX="-110" frameY="-63" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0024" x="0" y="1079" width="939" height="939" frameX="-110" frameY="-63" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0025" x="0" y="1079" width="939" height="939" frameX="-110" frameY="-63" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0026" x="0" y="1079" width="939" height="939" frameX="-110" frameY="-63" frameWidth="1098" frameHeight="1079"/>
+	<SubTexture name="Stan0027" x="0" y="1079" width="939" height="939" frameX="-110" frameY="-63" frameWidth="1098" frameHeight="1079"/>
+</TextureAtlas>

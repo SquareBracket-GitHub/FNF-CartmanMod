@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				-26
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-29,
+				-19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF Left0"
+		},
+		{
+			"offsets": [
+				-24,
+				-14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BF Down0"
+		},
+		{
+			"offsets": [
+				-84,
+				-17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BF Up0"
+		},
+		{
+			"offsets": [
+				-61,
+				-22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF Right0"
+		},
+		{
+			"offsets": [
+				-28,
+				-18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "BF Left miss"
+		},
+		{
+			"offsets": [
+				-24,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "BF Down miss"
+		},
+		{
+			"offsets": [
+				-82,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "BF Up miss"
+		},
+		{
+			"offsets": [
+				-44,
+				-18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BF Right miss"
+		},
+		{
+			"offsets": [
+				-58,
+				-19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "BF Hey"
+		},
+		{
+			"offsets": [
+				-93,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "BF Dead"
+		},
+		{
+			"offsets": [
+				-93,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "BF Dead loop"
+		},
+		{
+			"offsets": [
+				-51,
+				-23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "BF Dodge"
+		},
+		{
+			"offsets": [
+				-93,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "BF Dead loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfSp",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf-sp",
+	"flip_x": true,
+	"healthbar_colors": [
+		74,
+		187,
+		200
+	],
+	"camera_position": [
+		10,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}
